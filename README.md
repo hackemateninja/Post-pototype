@@ -1,7 +1,6 @@
 # Post-pototype
 Proto navigation blog with react native
 
-```ỳarn install
+1 ỳarn install
 
-
-```expo start
+2 expo start
